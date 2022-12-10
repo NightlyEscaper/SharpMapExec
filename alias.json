@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "command_name": "sharpmapexec",
     "original_author": "@cube0x0",
-    "repo_url": "https://github.com/sliverarmory/SharpMapExec",
+    "repo_url": "https://github.com/NightlyEscaper/SharpMapExec",
     "help": "A sharpen version of CrackMapExec",
 
     "entrypoint": "Main",
